@@ -8,6 +8,7 @@ x = input(int())
 y = input(int())
 z = input(int())
 
+
 if x>y:
     if x>z:
         print("X is greatest")
